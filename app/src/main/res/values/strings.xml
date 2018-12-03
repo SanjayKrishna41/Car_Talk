@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CarTalk</string>
+    <string name="image">image</string>
+    <string name="username">Username</string>
+    <string name="abcd">abcd</string>
+    <string name="password">Password</string>
+    <string name="xxxxxxxxx">xxxxxxxxx</string>
+    <string name="email">Email</string>
+    <string name="i_accept_terms_and_conditions">I accept terms and conditions</string>
+    <string name="create_account">Create Account</string>
+    <string name="todo">TODO</string>
+    <string name="abc_abc_com">abc@abc.com</string>
+    <string name="pull_down_to_refresh">Pull Down to Refresh</string>
+</resources>
